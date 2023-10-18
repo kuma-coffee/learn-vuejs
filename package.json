@@ -1,0 +1,19 @@
+{
+  "name": "learn-vuejs",
+  "version": "1.0.0",
+  "description": "learn vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuma-coffee/learn-vuejs.git"
+  },
+  "author": "kuma-coffee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuma-coffee/learn-vuejs/issues"
+  },
+  "homepage": "https://github.com/kuma-coffee/learn-vuejs#readme"
+}
