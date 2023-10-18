@@ -1,4 +1,4 @@
-const app = Vue.creteaApp({
+const app = Vue.createApp({
   data() {
     return {
       showBooks: true,
@@ -8,6 +8,9 @@ const app = Vue.creteaApp({
     };
   },
   methods: {
+    changeTitle(title) {
+      this.title = title;
+    },
     toggleShowBooks() {
       this.showBooks = !this.showBooks;
     },
