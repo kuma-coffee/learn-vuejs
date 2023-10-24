@@ -1,0 +1,19 @@
+{
+    "jobs": [
+        {
+            "title": "Ninja UX Designer",
+            "id": 1,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, exercitationem asperiores. Quis vero provident necessitatibus officiis vel aperiam voluptate reiciendis, nobis soluta culpa. Debitis odio saepe ratione aperiam incidunt placeat?"
+        },
+        {
+            "title": "Ninja Web Designer",
+            "id": 2,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, exercitationem asperiores. Quis vero provident necessitatibus officiis vel aperiam voluptate reiciendis, nobis soluta culpa. Debitis odio saepe ratione aperiam incidunt placeat?"
+        },
+        {
+            "title": "Ninja Vue Designer",
+            "id": 3,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, exercitationem asperiores. Quis vero provident necessitatibus officiis vel aperiam voluptate reiciendis, nobis soluta culpa. Debitis odio saepe ratione aperiam incidunt placeat?"
+        }
+    ]
+}
